@@ -1,0 +1,886 @@
+﻿geoname_id;country_name;City_Code;city_name;mitigation_plan
+2761369;Austria;AT001C1;Wien;A1
+2778067;Austria;AT002C1;Graz;A1
+2772400;Austria;AT003C1;Linz;C
+2766824;Austria;AT004C1;Salzburg;B
+2775220;Austria;AT005C1;Innsbruck;C
+2774326;Austria;AT006C1;Klagenfurt;A3
+2800866;Belgium;BE001C1;Bruxelles / Brussel;A1
+2803138;Belgium;BE002C1;Antwerpen;A1
+2797656;Belgium;BE003C1;Gent;A1
+2800481;Belgium;BE004C1;Charleroi;
+2792413;Belgium;BE005C1;Li√®ge;
+2800931;Belgium;BE006C1;Brugge;A1
+2790471;Belgium;BE007C1;Namur;A3
+2792482;Belgium;BE008C1;Leuven;A1
+2790869;Belgium;BE009C1;Mons;A3
+2794055;Belgium;BE010C1;Kortrijk;
+2789786;Belgium;BE011C1;Oostende;A3
+727011;Bulgaria;BG001C1;Sofia;A3
+728193;Bulgaria;BG002C1;Plovdiv;
+726050;Bulgaria;BG003C1;Varna;A3
+732770;Bulgaria;BG004C1;Burgas;A3
+728203;Bulgaria;BG005C1;Pleven;
+727523;Bulgaria;BG006C1;Ruse;
+725905;Bulgaria;BG007C1;Vidin;
+726848;Bulgaria;BG008C1;Stara Zagora;
+727079;Bulgaria;BG009C1;Sliven;
+726418;Bulgaria;BG010C1;Dobrich;A3
+727233;Bulgaria;BG011C1;Shumen;
+728330;Bulgaria;BG012C1;Pernik;
+725578;Bulgaria;BG013C1;Yambol;
+730435;Bulgaria;BG014C1;Haskovo;
+728378;Bulgaria;BG015C1;Pazardzhik;
+733191;Bulgaria;BG016C1;Blagoevgrad;
+725993;Bulgaria;BG017C1;Veliko Tarnovo;
+725712;Bulgaria;BG018C1;Vratsa;A3
+146268;Cyprus;CY001C1;Lefkosia;A3
+146384;Cyprus;CY501C1;Lemesos;A3
+3067696;Czech Republic;CZ001C1;Praha;A1
+3078610;Czech Republic;CZ002C1;Brno;
+3068799;Czech Republic;CZ003C1;Ostrava;A3
+3068160;Czech Republic;CZ004C1;Plze≈à;
+3063548;Czech Republic;CZ005C1;√öst√≠ nad Labem;
+3069011;Czech Republic;CZ006C1;Olomouc;
+3071961;Czech Republic;CZ007C1;Liberec;
+3077916;Czech Republic;CZ008C1;ƒåesk√© Budƒõjovice;
+3074967;Czech Republic;CZ009C1;Hradec Kr√°lov√©;
+3068582;Czech Republic;CZ010C1;Pardubice;
+3061370;Czech Republic;CZ011C1;Zl√≠n;
+3073699;Czech Republic;CZ012C1;Kladno;
+3073803;Czech Republic;CZ013C1;Karlovy Vary;
+3074199;Czech Republic;CZ014C1;Jihlava;
+3075921;Czech Republic;CZ015C1;Hav√≠≈ôov;
+3070291;Czech Republic;CZ016C1;Most;
+3073789;Czech Republic;CZ017C1;Karvin√°;
+NA;Czech Republic;CZ018C2;Chomutov-Jirkov;
+2950159;Germany;DE001C1;Berlin;A1
+2911298;Germany;DE002C1;Hamburg;A1
+2867714;Germany;DE003C1;M√ºnchen;A1
+2886242;Germany;DE004C1;K√∂ln;A1
+2925533;Germany;DE005C1;Frankfurt am Main;A1
+2928810;Germany;DE006C1;Essen;A1
+2825297;Germany;DE007C1;Stuttgart;A1
+2879139;Germany;DE008C1;Leipzig;A1
+2935022;Germany;DE009C1;Dresden;A1
+2935517;Germany;DE010C1;Dortmund;A1
+2934246;Germany;DE011C1;D√ºsseldorf;A1
+2944388;Germany;DE012C1;Bremen;A1
+2910831;Germany;DE013C1;Hannover;A1
+2861650;Germany;DE014C1;N√ºrnberg;A1
+2947416;Germany;DE015C1;Bochum;A1
+2949186;Germany;DE017C1;Bielefeld;A1
+2911522;Germany;DE018C1;Halle an der Saale;A1
+2874545;Germany;DE019C1;Magdeburg;A1
+2809346;Germany;DE020C1;Wiesbaden;A1
+2918632;Germany;DE021C1;G√∂ttingen;A1
+2867838;Germany;DE022C1;M√ºlheim a.d.Ruhr;A1
+2870221;Germany;DE023C1;Moers;A1
+2938913;Germany;DE025C1;Darmstadt;A1
+2821164;Germany;DE026C1;Trier;
+2925177;Germany;DE027C1;Freiburg im Breisgau;A1
+2849483;Germany;DE028C1;Regensburg;A1
+2925535;Germany;DE029C1;Frankfurt (Oder);A1
+2812482;Germany;DE030C1;Weimar;A1
+2834282;Germany;DE031C1;Schwerin;A1
+2929670;Germany;DE032C1;Erfurt;A1
+2954172;Germany;DE033C1;Augsburg;A1
+2946447;Germany;DE034C1;Bonn;A1
+2892794;Germany;DE035C1;Karlsruhe;A1
+2869894;Germany;DE036C1;M√∂nchengladbach;A1
+2874225;Germany;DE037C1;Mainz;A3
+2891122;Germany;DE039C1;Kiel;A1
+2842647;Germany;DE040C1;Saarbr√ºcken;
+2852458;Germany;DE041C1;Potsdam;A1
+2886946;Germany;DE042C1;Koblenz;A1
+2844588;Germany;DE043C1;Rostock;A1
+2894003;Germany;DE044C1;Kaiserslautern;A1
+2895669;Germany;DE045C1;Iserlohn;A1
+2928751;Germany;DE046C1;Esslingen am Neckar;A1
+2911007;Germany;DE047C1;Hanau;A1
+2808720;Germany;DE048C1;Wilhelmshaven;A1
+2875392;Germany;DE049C1;Ludwigsburg;A3
+2820860;Germany;DE050C1;T√ºbingen;
+2817220;Germany;DE051C1;Villingen-Schwenningen;
+2926271;Germany;DE052C1;Flensburg;A1
+2814153;Germany;DE053C1;Marburg;A1
+2885679;Germany;DE054C1;Konstanz;A1
+2864475;Germany;DE055C1;Neum√ºnster;A1
+2945358;Germany;DE056C1;Brandenburg an der Havel;
+2920512;Germany;DE057C1;Gie√üen;
+2875115;Germany;DE058C1;L√ºneburg;D
+2951825;Germany;DE059C1;Bayreuth;D
+2940213;Germany;DE060C1;Celle;
+2955272;Germany;DE061C1;Aschaffenburg;
+2952984;Germany;DE062C1;Bamberg;
+2853292;Germany;DE063C1;Plauen;
+2866135;Germany;DE064C1;Neubrandenburg;
+2923822;Germany;DE065C1;Fulda;A1
+2891621;Germany;DE066C1;Kempten (Allg√§u);A1
+2881485;Germany;DE067C1;Landshut;A1
+2831948;Germany;DE068C1;Sindelfingen;A1
+2844988;Germany;DE069C1;Rosenheim;A1
+2925550;Germany;DE070C1;Frankenthal (Pfalz);A1
+2826287;Germany;DE071C1;Stralsund;A1
+2924585;Germany;DE072C1;Friedrichshafen;A1
+2857798;Germany;DE073C1;Offenburg;A1
+2918987;Germany;DE074C1;G√∂rlitz;A1
+2841648;Germany;DE075C1;Sankt Augustin;A1
+2863941;Germany;DE076C1;Neu-Ulm;C
+2834498;Germany;DE077C1;Schweinfurt;A1
+2917788;Germany;DE078C1;Greifswald;A1
+2809889;Germany;DE079C1;Wetzlar;
+2830582;Germany;DE080C1;Speyer;A1
+2855328;Germany;DE081C1;Passau;
+2937959;Germany;DE082C1;Dessau-Ro√ülau;A1
+2934691;Germany;DE501C1;Duisburg;A1
+2873891;Germany;DE502C1;Mannheim;A1
+2921466;Germany;DE503C1;Gelsenkirchen;A1
+2867542;Germany;DE504C1;M√ºnster;A1
+2940132;Germany;DE505C1;Chemnitz;A1
+2945024;Germany;DE506C1;Braunschweig;A1
+3247449;Germany;DE507C1;Aachen;A1
+2884509;Germany;DE508C1;Krefeld;A1
+2860410;Germany;DE509C1;Oberhausen;A1
+2875601;Germany;DE510C1;L√ºbeck;A1
+2912621;Germany;DE511C1;Hagen;A1
+2892518;Germany;DE513C1;Kassel;A1
+2911240;Germany;DE514C1;Hamm;A1
+2905891;Germany;DE515C1;Herne;A1
+2831580;Germany;DE516C1;Solingen;A1
+2856883;Germany;DE517C1;Osnabr√ºck;A1
+2875376;Germany;DE518C1;Ludwigshafen am Rhein;A1
+2878234;Germany;DE519C1;Leverkusen;A1
+2857458;Germany;DE520C1;Oldenburg (Oldenburg);A1
+2864118;Germany;DE521C1;Neuss;A1
+2907911;Germany;DE522C1;Heidelberg;A1
+2855745;Germany;DE523C1;Paderborn;A1
+2805615;Germany;DE524C1;W√ºrzburg;A1
+2849647;Germany;DE525C1;Recklinghausen;A1
+2806654;Germany;DE526C1;Wolfsburg;A1
+2944368;Germany;DE527C1;Bremerhaven;
+2945756;Germany;DE528C1;Bottrop;A1
+2907669;Germany;DE529C1;Heilbronn;A1
+2848273;Germany;DE530C1;Remscheid;A1
+2857807;Germany;DE531C1;Offenbach am Main;A1
+2820256;Germany;DE532C1;Ulm;
+2853969;Germany;DE533C1;Pforzheim;A1
+2895992;Germany;DE534C1;Ingolstadt;
+2921232;Germany;DE535C1;Gera;A1
+2842150;Germany;DE536C1;Salzgitter;A1
+2847736;Germany;DE537C1;Reutlingen;A1
+2923544;Germany;DE538C1;F√ºrth;A1
+2939811;Germany;DE539C1;Cottbus;C
+2832495;Germany;DE540C1;Siegen;A1
+2950349;Germany;DE541C1;Bergisch Gladbach;
+2904789;Germany;DE542C1;Hildesheim;
+2807363;Germany;DE543C1;Witten;A1
+2803560;Germany;DE544C1;Zwickau;A1
+2929567;Germany;DE545C1;Erlangen;A1
+2805753;Germany;DE546C1;Wuppertal;A1
+2895044;Germany;DE547C1;Jena;A1
+2618425;Denmark;DK001C1;K√∏benhavn;A1
+2624652;Denmark;DK002C1;√Örhus;A1
+2615876;Denmark;DK003C1;Odense;A1
+2624886;Denmark;DK004C2;Aalborg;A1
+588409;Estland;EE001C1;Tallinn;A3
+588335;Estland;EE002C1;Tartu;A3
+590031;Estland;EE003C1;Narva;C
+3117735;Espana;ES001C1;Madrid;A1
+3128760;Espana;ES002C1;Barcelona;A1
+2509954;Espana;ES003C1;Valencia;A1
+2510911;Espana;ES004C1;Sevilla;A3
+3104324;Espana;ES005C1;Zaragoza;A1
+2514256;Espana;ES006C1;M√°laga;B
+2513416;Espana;ES007C1;Murcia;A1
+2515270;Espana;ES008C1;Las Palmas;
+3106672;Espana;ES009C1;Valladolid;A3
+2512989;Espana;ES010C1;Palma de Mallorca;A3
+3109642;Espana;ES011C1;Santiago de Compostela;
+3104499;Espana;ES012C1;Vitoria/Gasteiz;A1
+3114711;Espana;ES013C1;Oviedo;
+3114472;Espana;ES014C1;Pamplona/Iru√±a;A3
+3109718;Espana;ES015C1;Santander;A3
+2510409;Espana;ES016C1;Toledo;
+2521420;Espana;ES017C1;Badajoz;A3
+3118150;Espana;ES018C1;Logro√±o;A3
+3128026;Espana;ES019C1;Bilbao;A3
+2519240;Espana;ES020C1;C√≥rdoba;A3
+2521978;Espana;ES021C1;Alicante/Alacant;A3
+3105976;Espana;ES022C1;Vigo;
+3121424;Espana;ES023C1;Gij√≥n;A3
+3120619;Espana;ES024C1;L'Hospitalet de Llobregat;A3
+2511174;Espana;ES025C1;Santa Cruz de Tenerife;A3
+3119841;Espana;ES026C1;A Coru√±a;A1
+3109453;Espana;ES027C1;Barakaldo;
+3111933;Espana;ES028C1;Reus;A3
+2510542;Espana;ES029C1;Telde;
+3114256;Espana;ES030C1;Parla;
+3117814;Espana;ES031C1;Lugo;
+2511388;Espana;ES032C1;San Fernando;A3
+3121456;Espana;ES033C1;Girona;A1
+2520611;Espana;ES034C1;C√°ceres;
+2510253;Espana;ES035C1;Torrevieja;
+3112989;Espana;ES036C1;Pozuelo de Alarc√≥n;A3
+2518207;Espana;ES037C1;Puerto de Santa Mar√≠a, El;
+3124408;Espana;ES038C1;Coslada;
+3129135;Espana;ES039C1;Avil√©s;
+2510693;Espana;ES040C1;Talavera de la Reina;
+3114531;Espana;ES041C1;Palencia;A3
+3110834;Espana;ES042C1;Sant Boi de Llobregat;A3
+3123493;Espana;ES043C1;Ferrol;
+3113209;Espana;ES044C1;Pontevedra;
+6362987;Espana;ES045C1;Ceuta;
+2517367;Espana;ES046C1;Gandia;
+3118848;Espana;ES047C1;Rozas de Madrid, Las;A1
+3121070;Espana;ES048C1;Guadalajara;
+3110718;Espana;ES049C1;Sant Cugat del Vall√®s;A3
+3117533;Espana;ES050C1;Manresa;A3
+3121007;Espana;ES051C1;Getxo;
+3111294;Espana;ES052C1;Rub√≠;A3
+2519402;Espana;ES053C1;Ciudad Real;
+2521088;Espana;ES054C1;Benidorm;A3
+2513947;Espana;ES055C1;Melilla;
+3105935;Espana;ES056C1;Viladecans;A3
+3113236;Espana;ES057C1;Ponferrada;
+3110040;Espana;ES058C1;San Sebasti√°n de los Reyes;
+3104342;Espana;ES059C1;Zamora;
+2517595;Espana;ES060C1;Fuengirola;
+3109402;Espana;ES061C1;Cerdanyola del Vall√®s;A3
+2511306;Espana;ES062C1;Sanl√∫car de Barrameda;A3
+3105184;Espana;ES063C1;Vilanova i la Geltr√∫;A3
+3123329;Espana;ES064C1;Prat de Llobregat, El;A3
+2515812;Espana;ES065C1;L√≠nea de la Concepci√≥n, La;A3
+3124569;Espana;ES066C1;Cornell√† de Llobregat;A3
+3117667;Espana;ES067C1;Majadahonda;
+2510281;Espana;ES068C1;Torremolinos;
+3125897;Espana;ES069C1;Castelldefels;A3
+3120304;Espana;ES070C1;Irun;A3
+3121145;Espana;ES071C1;Granollers;A3
+2521570;Espana;ES072C1;Arrecife;
+2518505;Espana;ES073C1;Elda;A3
+2511150;Espana;ES074C1;Santa Luc√≠a de Tirajana;
+3116553;Espana;ES075C1;Mollet del Vall√®s;A3
+2517117;Espana;ES501C1;Granada;A3
+3129028;Espana;ES503C1;Badalona;A3
+3116025;Espana;ES504C1;M√≥stoles;A3
+2518559;Espana;ES505C1;Elche/Elx;A1
+2520058;Espana;ES506C1;Cartagena;B
+3111199;Espana;ES507C1;Sabadell;A3
+2516326;Espana;ES508C1;Jerez de la Frontera;
+3121960;Espana;ES509C1;Fuenlabrada;
+3110044;Espana;ES510C1;San Sebasti√°n/Donostia;A1
+3130616;Espana;ES511C1;Alcal√° de Henares;
+3108286;Espana;ES512C1;Terrassa;C
+3118594;Espana;ES513C1;Legan√©s;
+2521886;Espana;ES514C1;Almer√≠a;
+3127461;Espana;ES515C1;Burgos;A3
+3111108;Espana;ES516C1;Salamanca;A3
+3130564;Espana;ES517C1;Alcorc√≥n;
+3121437;Espana;ES518C1;Getafe;
+2522258;Espana;ES519C1;Albacete;
+2519752;Espana;ES520C1;Castell√≥n de la Plana/Castell√≥ de la Plana;A3
+2516548;Espana;ES521C1;Huelva;A3
+2520600;Espana;ES522C1;C√°diz;A3
+3118532;Espana;ES523C1;Le√≥n;A3
+2511401;Espana;ES524C1;San Crist√≥bal de la Laguna;A3
+3108288;Espana;ES525C1;Tarragona;A3
+3109981;Espana;ES526C1;Santa Coloma de Gramenet;B
+2516395;Espana;ES527C1;Ja√©n;
+3118514;Espana;ES528C1;Lleida;A3
+3114965;Espana;ES529C1;Ourense;
+3117164;Espana;ES530C1;Matar√≥;B
+2518794;Espana;ES531C1;Dos Hermanas;
+2522013;Espana;ES532C1;Algeciras;A3
+2514169;Espana;ES533C1;Marbella;A3
+3107784;Espana;ES534C1;Torrej√≥n de Ardoz;
+3130583;Espana;ES535C1;Alcobendas;
+658225;Finland;FI001C2;Helsinki / Helsingfors;A1
+634963;Finland;FI002C1;Tampere / Tammerfors;A1
+633679;Finland;FI003C1;Turku / √Öbo;A1
+643492;Finland;FI004C2;Oulu / Ule√•borg;A1
+660158;Finland;FI005C1;Espoo / Esbo;A1
+632453;Finland;FI006C1;Vantaa / Vanda;A1
+649360;Finland;FI007C1;Lahti / Lahtis;A1
+650224;Finland;FI008C1;Kuopio;
+655194;Finland;FI009C1;Jyv√§skyl√§;
+2988507;France;FR001C1;Paris;A2
+2996944;France;FR003C2;Lyon;A2
+2972315;France;FR004C2;Toulouse;A2
+2973783;France;FR006C2;Strasbourg;A2
+3031582;France;FR007C1;Bordeaux;A2
+2990969;France;FR008C1;Nantes;A2
+2998324;France;FR009C1;Lille;A2
+2992166;France;FR010C1;Montpellier;A2
+2980291;France;FR011C1;Saint-Etienne;A2
+3003796;France;FR012C1;Le Havre;A2
+2983990;France;FR013C2;Rennes;A2
+3037854;France;FR014C2;Amiens;
+2990999;France;FR016C1;Nancy;A2
+2994160;France;FR017C2;Metz;A2
+2984114;France;FR018C1;Reims;A2
+2989317;France;FR019C1;Orl√©ans;A2
+3021372;France;FR020C2;Dijon;A2
+2986495;France;FR021C2;Poitiers;A2
+3024635;France;FR022C2;Clermont-Ferrand;A2
+3029241;France;FR023C2;Caen;A2
+2998286;France;FR024C2;Limoges;A2
+3033123;France;FR025C1;Besan√ßon;A2
+3014728;France;FR026C2;Grenoble;A2
+3038334;France;FR027C1;Ajaccio;A2
+2980916;France;FR028C1;Saint Denis;A2
+3570675;France;FR030C1;Fort-de-France;A2
+2972328;France;FR032C2;Toulon;
+2971041;France;FR034C2;Valenciennes;A2
+2972191;France;FR035C2;Tours;A2
+3037656;France;FR036C2;Angers;A2
+3030300;France;FR037C1;Brest;A2
+3003603;France;FR038C2;Le Mans;A2
+3035681;France;FR039C2;Avignon;
+2991214;France;FR040C2;Mulhouse;A2
+3020686;France;FR042C1;Dunkerque;A2
+2987914;France;FR043C2;Perpignan;A2
+2990363;France;FR044C2;N√Æmes;A2
+2988358;France;FR045C2;Pau;
+3034475;France;FR046C2;Bayonne;A2
+3037538;France;FR047C2;Annemasse;A2
+3037543;France;FR048C1;Annecy;A2
+2997577;France;FR049C2;Lorient;A2
+2992938;France;FR050C2;Montb√©liard;A2
+2971549;France;FR051C2;Troyes;A2
+2977921;France;FR052C2;Saint-Nazaire;A2
+3006787;France;FR053C1;La Rochelle;A2
+3037598;France;FR056C1;Angoul√™me;A2
+3031133;France;FR057C2;Boulogne-sur-Mer;A2
+3027422;France;FR058C2;Chamb√©ry;A2
+3027484;France;FR059C2;Chalon-sur-Sa√¥ne;A2
+3026467;France;FR060C2;Chartres;A2
+2990355;France;FR061C2;Niort;A2
+3029162;France;FR062C1;Calais;A2
+3032833;France;FR063C2;B√©ziers;A2
+3036784;France;FR064C2;Arras;A2
+3031005;France;FR065C2;Bourges;
+2981280;France;FR066C1;Saint-Brieuc;A2
+2984701;France;FR067C2;Quimper;A2
+2970777;France;FR068C2;Vannes;A2
+3025466;France;FR069C1;Cherbourg;A2
+2973385;France;FR073C2;Tarbes;A2
+3024066;France;FR074C2;Compi√®gne;
+3033791;France;FR076C2;Belfort;A2
+2983362;France;FR077C1;Roanne;
+2977295;France;FR079C2;Saint-Quentin;Pl
+3034006;France;FR082C2;Beauvais;
+3022610;France;FR084C1;Creil;
+3019265;France;FR086C2;Evreux;
+3026204;France;FR090C2;Ch√¢teauroux;Pl
+3029974;France;FR093C2;Brive-la-Gaillarde;Pl
+3038261;France;FR096C2;Albi;A2
+3017253;France;FR099C1;Fr√©jus;A2
+3027487;France;FR104C2;Ch√¢lons-en-Champagne;
+3036433;France;FR201C1;Aubagne;A2
+3038354;France;FR202C1;Aix-en-Provence;A2
+2995469;France;FR203C1;Marseille;A2
+2990440;France;FR205C2;Nice;A2
+NA;France;FR206C1;CA de Sophia-Antipolis;A2
+NA;France;FR207C1;Lens - Li√©vin;
+NA;France;FR208C1;H√©nin - Carvin;A2
+3021000;France;FR209C2;Douai;A2
+2969679;France;FR211C1;Versailles;
+NA;France;FR212C1;CC de la Boucle de la Seine;
+NA;France;FR213C1;S√©nart en Essonne;A2
+2971053;France;FR214C1;Valence;A2
+2982652;France;FR215C2;Rouen;A2
+NA;France;FR216C1;CA Marne et Chantereine;
+NA;France;FR221C1;CA les Portes de l'Essonne;
+2994651;France;FR304C1;Melun;
+2994798;France;FR305C1;Meaux;
+NA;France;FR306C1;Mantes en Yvelines;
+3019256;France;FR308C1;Evry;Pl
+NA;France;FR323C1;CA de la Vall√©e de Montmorency;
+2995387;France;FR324C1;Martigues;A2
+8555643;France;FR504C1;Cergy-Pontoise;A2
+3026613;France;FR505C1;Charleville-M√©zi√®res;A2
+3024297;France;FR506C1;Colmar;A2
+8533870;France;FR518C1;Saint-Quentin en Yvelines;A2
+264371;Greece;EL001C1;Athina;
+734077;Greece;EL002C1;Thessaloniki;A3
+255683;Greece;EL003C1;P√°tra;A3
+261745;Greece;EL004C1;Heraklion;A3
+258576;Greece;EL005C1;Larisa;
+251833;Greece;EL006C1;Volos;A3
+261779;Greece;EL007C1;Ioannina;
+735861;Greece;EL008C1;Kavala;A3
+261604;Greece;EL009C1;Kalamata;
+3186886;Croatia;HR001C1;Zagreb;A3
+3191648;Croatia;HR002C1;Rijeka;A3
+3190586;Croatia;HR003C1;Slavonski Brod;
+3193935;Croatia;HR004C1;Osijek;A3
+3190261;Croatia;HR005C1;Split;
+3054643;Hungary;HU001C1;Budapest;A3
+717582;Hungary;HU002C1;Miskolc;A3
+716935;Hungary;HU003C1;Ny√≠regyh√°za;A3
+3046526;Hungary;HU004C1;P√©cs;A3
+721472;Hungary;HU005C1;Debrecen;Ty
+715429;Hungary;HU006C1;Szeged;Ty
+3052009;Hungary;HU007C1;Gy√µr;Ty
+3050434;Hungary;HU008C1;Kecskem√©t;Ty
+3044774;Hungary;HU009C1;Sz√©kesfeh√©rv√°r;Ty
+3044310;Hungary;HU010C1;Szombathely;Ty
+2964574;Ireland;IE001C1;Dublin;A1
+2965140;Ireland;IE002C1;Cork;A1
+2962943;Ireland;IE003C1;Limerick;A3
+2964180;Ireland;IE004C1;Galway;A1
+2960992;Ireland;IE005C1;Waterford;A1
+3169070;Italy;IT001C1;Roma;A3
+3173435;Italy;IT002C1;Milano;A3
+3172394;Italy;IT003C1;Napoli;A3
+3165524;Italy;IT004C1;Torino;A3
+2523920;Italy;IT005C1;Palermo;A3
+3176219;Italy;IT006C1;Genova;A3
+3176959;Italy;IT007C1;Firenze;A3
+3182351;Italy;IT008C1;Bari;A3
+3181928;Italy;IT009C1;Bologna;A3
+2525068;Italy;IT010C1;Catania;A3
+3164603;Italy;IT011C1;Venezia;A3
+3164527;Italy;IT012C1;Verona;A3
+3177838;Italy;IT013C1;Cremona;A3
+3165243;Italy;IT014C1;Trento;A3
+3165185;Italy;IT015C1;Trieste;A3
+3171180;Italy;IT016C1;Perugia;C
+3183089;Italy;IT017C1;Ancona;A3
+3171168;Italy;IT019C1;Pescara;A3
+3180991;Italy;IT020C1;Campobasso;A3
+3179866;Italy;IT021C1;Caserta;
+3165926;Italy;IT022C1;Taranto;
+3170027;Italy;IT023C1;Potenza;A3
+2525059;Italy;IT024C1;Catanzaro;
+2523630;Italy;IT025C1;Reggio di Calabria;
+3167096;Italy;IT026C1;Sassari;A3
+2525473;Italy;IT027C1;Cagliari;A3
+3171728;Italy;IT028C1;Padova;A3
+3181554;Italy;IT029C1;Brescia;
+3173331;Italy;IT030C1;Modena;A3
+3176885;Italy;IT031C1;Foggia;
+3168673;Italy;IT032C1;Salerno;A3
+3171058;Italy;IT033C1;Piacenza;A3
+3181913;Italy;IT034C1;Bolzano;A3
+3165072;Italy;IT035C1;Udine;A3
+3175081;Italy;IT036C1;La Spezia;A3
+3174953;Italy;IT037C1;Lecce;A3
+3182340;Italy;IT038C1;Barletta;A3
+3171173;Italy;IT039C1;Pesaro;A3
+3178229;Italy;IT040C1;Como;
+3170647;Italy;IT041C1;Pisa;A3
+3165201;Italy;IT042C1;Treviso;A3
+3164699;Italy;IT043C1;Varese;
+3181355;Italy;IT044C1;Busto Arsizio;A3
+3182714;Italy;IT045C1;Asti;
+3171366;Italy;IT046C1;Pavia;A3
+3173775;Italy;IT047C1;Massa;A3
+2524907;Italy;IT048C1;Cosenza;A3
+3180423;Italy;IT049C1;Carrara;
+3182179;Italy;IT050C1;Benevento;
+3167777;Italy;IT051C1;Sanremo;
+3167022;Italy;IT052C1;Savona;A3
+3164376;Italy;IT053C1;Vigevano;
+3173721;Italy;IT054C1;Matera;A3
+3164433;Italy;IT055C1;Viareggio;
+2525790;Italy;IT056C1;Acireale;A3
+3182650;Italy;IT057C1;Avellino;
+3170147;Italy;IT058C1;Pordenone;A3
+3182043;Italy;IT059C1;Biella;
+3174945;Italy;IT060C1;Lecco;
+2524170;Italy;IT501C1;Messina;A3
+3169921;Italy;IT502C1;Prato;A3
+3171457;Italy;IT503C1;Parma;A3
+3174659;Italy;IT504C1;Livorno;A3
+3169522;Italy;IT505C1;Reggio nell'Emilia;A3
+3169561;Italy;IT506C1;Ravenna;A3
+3177090;Italy;IT507C1;Ferrara;A3
+3169361;Italy;IT508C1;Rimini;A3
+2523083;Italy;IT509C1;Siracusa;
+3172629;Italy;IT510C1;Monza;A3
+3182164;Italy;IT511C1;Bergamo;A3
+3176746;Italy;IT512C1;Forl√¨;A3
+3175058;Italy;IT513C1;Latina;A3
+3164419;Italy;IT514C1;Vicenza;A3
+3165771;Italy;IT515C1;Terni;
+3172189;Italy;IT516C1;Novara;A3
+3176059;Italy;IT517C1;Giugliano in Campania;A3
+593116;Lithuania;LT001C1;Vilnius;A3
+598316;Lithuania;LT002C1;Kaunas;A3
+596128;Lithuania;LT003C1;Panevƒó≈æys;
+601084;Lithuania;LT004C1;Alytus;
+598098;Lithuania;LT501C1;Klaipƒóda;
+594739;Lithuania;LT502C1;≈†iauliai;
+2960316;Luxemburg;LU001C1;Luxembourg;
+456172;Latvia;LV001C1;Rƒ´ga;A3
+457954;Latvia;LV002C1;LiepƒÅja;A3
+459279;Latvia;LV003C1;Jelgava;A3
+460413;Latvia;LV501C1;Daugavpils;A3
+2562305;Malta;MT001C1;Valletta;
+2747373;Netherlands;NL001C1;s-Gravenhage;A1
+2759794;Netherlands;NL002C1;Amsterdam;A1
+2747891;Netherlands;NL003C1;Rotterdam;B
+2745912;Netherlands;NL004C1;Utrecht;A1
+2756253;Netherlands;NL005C1;Eindhoven;A1
+2746301;Netherlands;NL006C1;Tilburg;A3
+2755251;Netherlands;NL007C1;Groningen;A1
+2756071;Netherlands;NL008C1;Enschede;A1
+2759661;Netherlands;NL009C1;Arnhem;A1
+2754652;Netherlands;NL010C1;Heerlen;A3
+2759879;Netherlands;NL011C1;Almere;A3
+2758401;Netherlands;NL012C1;Breda;A1
+2750053;Netherlands;NL013C1;Nijmegen;A1
+2759706;Netherlands;NL014C1;Apeldoorn;
+2751792;Netherlands;NL015C1;Leeuwarden;
+6544255;Netherlands;NL016C1;Sittard-Geleen;
+2757345;Netherlands;NL017C1;Delft;A1
+2754064;Netherlands;NL018C1;Hilversum;A1
+2759798;Netherlands;NL019C1;Amstelveen;A1
+2747930;Netherlands;NL020C1;Roosendaal;
+2746932;Netherlands;NL021C1;Spijkenisse;
+6544252;Netherlands;NL022C1;Leidschendam-Voorburg;A1
+2748413;Netherlands;NL023C1;Purmerend;
+2745467;Netherlands;NL024C1;Vlaardingen;
+2745673;Netherlands;NL025C1;Velsen;
+2759875;Netherlands;NL026C1;Alphen aan den Rijn;B
+2758012;Netherlands;NL027C1;Capelle aan den IJssel;Pl
+2759145;Netherlands;NL028C1;Bergen op Zoom;
+2753010;Netherlands;NL029C1;Katwijk;
+2755420;Netherlands;NL030C1;Gouda;B
+2753638;Netherlands;NL031C1;Hoorn;B
+2750896;Netherlands;NL032C1;Middelburg;
+2755003;Netherlands;NL501C1;Haarlem;A3
+2744114;Netherlands;NL502C1;Zaanstad;
+2747351;Netherlands;NL503C1;s-Hertogenbosch;A1
+2759821;Netherlands;NL504C1;Amersfoort;
+2751283;Netherlands;NL505C1;Maastricht;A1
+2756669;Netherlands;NL506C1;Dordrecht;B
+2751773;Netherlands;NL507C1;Leiden;B
+2753801;Netherlands;NL508C1;Haarlemmermeer;
+2743856;Netherlands;NL509C1;Zoetermeer;A3
+2743477;Netherlands;NL511C1;Zwolle;
+2756429;Netherlands;NL512C1;Ede;B
+2756987;Netherlands;NL513C1;Deventer;B
+2759899;Netherlands;NL514C1;Alkmaar;B
+2745641;Netherlands;NL515C1;Venlo;
+2754447;Netherlands;NL516C1;Helmond;A3
+2754394;Netherlands;NL517C1;Hengelo;
+2747596;Netherlands;NL518C1;Schiedam;
+2759887;Netherlands;NL519C1;Almelo;
+2751738;Netherlands;NL520C1;Lelystad;B
+756135;Poland;PL001C1;Warszawa;A1
+3093133;Poland;PL002C1;≈Å√≥d≈∫;A1
+3094802;Poland;PL003C1;Krak√≥w;A1
+3081368;Poland;PL004C1;Wroc≈Çaw;A1
+3088171;Poland;PL005C1;Pozna≈Ñ;A1
+3099434;Poland;PL006C1;Gda≈Ñsk;A1
+3083829;Poland;PL007C1;Szczecin;A1
+3102014;Poland;PL008C1;Bydgoszcz;A1
+765876;Poland;PL009C1;Lublin;A1
+3096472;Poland;PL010C1;Katowice;A1
+776069;Poland;PL011C1;Bia≈Çystok;A1
+769250;Poland;PL012C1;Kielce;A1
+3083271;Poland;PL013C1;Toru≈Ñ;A1
+763166;Poland;PL014C1;Olsztyn;A1
+759734;Poland;PL015C1;Rzesz√≥w;A1
+3090048;Poland;PL016C1;Opole;A1
+3098722;Poland;PL017C1;Gorz√≥w Wielkopolski;A1
+3080165;Poland;PL018C1;Zielona G√≥ra;A1
+3097257;Poland;PL019C1;Jelenia G√≥ra;A1
+763534;Poland;PL020C1;Nowy SƒÖcz;A1
+757718;Poland;PL021C1;Suwa≈Çki;A1
+3095321;Poland;PL022C1;Konin;A1
+3080004;Poland;PL023C1;≈ªory;A1
+3100946;Poland;PL024C1;Czƒôstochowa;A3
+760778;Poland;PL025C1;Radom;
+3088825;Poland;PL026C1;P≈Çock;A1
+3096880;Poland;PL027C1;Kalisz;A1
+3095049;Poland;PL028C1;Koszalin;A1
+3085450;Poland;PL029C1;S≈Çupsk;A1
+3097391;Poland;PL030C1;Jastrzƒôbie-Zdr√≥j;A1
+759412;Poland;PL031C1;Siedlce;A1
+3088972;Poland;PL032C1;Piotrk√≥w Trybunalski;A1
+3092931;Poland;PL033C1;Lubin;A1
+3089033;Poland;PL034C1;Pi≈Ça;A1
+3097872;Poland;PL035C1;Inowroc≈Çaw;A1
+762863;Poland;PL036C1;Ostrowiec ≈öwiƒôtokrzyski;A1
+3099112;Poland;PL037C1;Gniezno;A1
+3084840;Poland;PL038C1;Stargard Szczeci≈Ñski;A1
+3089684;Poland;PL039C1;Ostr√≥w Wielkopolski;A1
+761168;Poland;PL040C1;Przemy≈õl;A1
+753866;Poland;PL041C1;Zamo≈õƒá;A1
+774558;Poland;PL042C1;Che≈Çm;A1
+3089578;Poland;PL043C1;Pabianice;A1
+3099213;Poland;PL044C1;G≈Çog√≥w;A1
+758445;Poland;PL045C1;Stalowa Wola;A1
+756867;Poland;PL046C1;Tomasz√≥w Mazowiecki;A1
+766027;Poland;PL047C1;≈Åom≈ºa;A1
+3093524;Poland;PL048C1;Leszno;A1
+3084093;Poland;PL049C1;≈öwidnica;A1
+3080251;Poland;PL050C1;Zgierz;A1
+3083426;Poland;PL051C1;Tczew;A1
+772621;Poland;PL052C1;E≈Çk;A1
+3099424;Poland;PL501C1;Gdynia;A1
+3085128;Poland;PL502C1;Sosnowiec;A1
+3099230;Poland;PL503C1;Gliwice;A1
+3080985;Poland;PL504C1;Zabrze;A1
+3101950;Poland;PL505C1;Bytom;A1
+3103402;Poland;PL506C1;Bielsko-Bia≈Ça;A1
+3086800;Poland;PL507C1;Ruda ≈ölƒÖska;A1
+3086586;Poland;PL508C1;Rybnik;A1
+3082914;Poland;PL509C1;Tychy;A1
+3082707;Poland;PL511C1;Wa≈Çbrzych;A1
+3099759;Poland;PL512C1;ElblƒÖg;A1
+3081741;Poland;PL513C1;W≈Çoc≈Çawek;A1
+757026;Poland;PL514C1;Tarn√≥w;A1
+3101619;Poland;PL515C1;Chorz√≥w;A1
+3093692;Poland;PL516C1;Legnica;A1
+3098218;Poland;PL517C1;GrudziƒÖdz;A1
+2267057;Portugal;PT001C1;Lisboa;A3
+2735943;Portugal;PT002C1;Porto;A3
+2742032;Portugal;PT003C1;Braga;A3
+2267827;Portugal;PT004C1;Funchal;A3
+2740637;Portugal;PT005C1;Coimbra;
+2262963;Portugal;PT006C1;Set√∫bal;A3
+6941014;Portugal;PT007C1;Ponta Delgada;
+2742611;Portugal;PT008C1;Aveiro;A3
+2268339;Portugal;PT009C1;Faro;A3
+7732032;Portugal;PT010C1;Seixal;A3
+2271772;Portugal;PT011C1;Amadora;
+2271961;Portugal;PT012C1;Almada;A1
+2265467;Portugal;PT013C1;Odivelas;
+2732265;Portugal;PT014C1;Viseu;A3
+2732978;Portugal;PT015C1;Valongo;
+2732773;Portugal;PT016C1;Viana do Castelo;A3
+2736657;Portugal;PT017C1;Paredes;
+2271071;Portugal;PT018C1;Barreiro;A3
+2735787;Portugal;PT019C1;P√≥voa de Varzim;
+2262912;Portugal;PT501C1;Sintra;A3
+2732544;Portugal;PT502C1;Vila Nova de Gaia;A3
+2737824;Portugal;PT503C1;Matosinhos;A3
+2738925;Portugal;PT504C1;Gondomar;
+2738752;Portugal;PT505C1;Guimar√£es;A3
+2261639;Portugal;PT508C1;Vila Franca de Xira;
+683506;Romania;RO001C1;Bucure≈üti;A3
+681290;Romania;RO002C1;Cluj-Napoca;A3
+665087;Romania;RO003C1;Timi≈üoara;A1
+680332;Romania;RO004C1;Craiova;
+683902;Romania;RO005C1;BrƒÉila;C
+671768;Romania;RO006C1;Oradea;
+685948;Romania;RO007C1;BacƒÉu;A3
+686254;Romania;RO008C1;Arad;A3
+667268;Romania;RO009C1;Sibiu;A3
+665004;Romania;RO010C1;T√¢rgu Mure≈ü;
+670889;Romania;RO011C1;Piatra Neam≈£;
+NA;Romania;RO012C1;C«él«éra≈üi;A3
+677106;Romania;RO013C1;Giurgiu;A3
+686578;Romania;RO014C1;Alba Iulia;A3
+678015;Romania;RO015C1;Foc≈üani;
+665010;Romania;RO016C1;T√¢rgu Jiu;
+664518;Romania;RO017C1;Tulcea;
+665024;Romania;RO018C1;T√¢rgovi≈üte;
+666767;Romania;RO019C1;Slatina;
+684802;Romania;RO020C1;B√¢rlad;
+668732;Romania;RO021C1;Roman;A3
+684657;Romania;RO022C1;Bistrita;A3
+680963;Romania;RO501C1;Constan≈£a;A3
+675810;Romania;RO502C1;Ia≈üi;
+677697;Romania;RO503C1;Gala≈£i;
+683844;Romania;RO504C1;Bra≈üov;A3
+670474;Romania;RO505C1;Ploie≈üti;
+670609;Romania;RO506C1;Pite≈üti;A3
+685826;Romania;RO507C1;Baia Mare;A3
+683123;Romania;RO508C1;BuzƒÉu;
+667873;Romania;RO509C1;Satu Mare;A3
+684039;Romania;RO510C1;Boto≈üani;
+668872;Romania;RO511C1;R√¢mnicu V√¢lcea;A3
+665850;Romania;RO512C1;Suceava;
+678817;Romania;RO513C1;Drobeta-Turnu Severin;C
+2673730;Sweden;SE001C1;Stockholm;A1
+2711537;Sweden;SE002C1;G√∂teborg;A1
+2692969;Sweden;SE003C1;Malm√∂;A1
+2702979;Sweden;SE004C1;J√∂nk√∂ping;A1
+602150;Sweden;SE005C1;Ume√•;A3
+2666199;Sweden;SE006C1;Uppsala;A1
+2694762;Sweden;SE007C1;Link√∂ping;A3
+2686657;Sweden;SE008C1;√ñrebro;A1
+2664454;Sweden;SE501C1;V√§ster√•s;A1
+2688368;Sweden;SE502C1;Norrk√∂ping;A1
+2706767;Sweden;SE503C1;Helsingborg;A3
+2693678;Sweden;SE504C1;Lund;A1
+2720501;Sweden;SE505C1;Bor√•s;A1
+3196359;Slovenia;SI001C1;Ljubljana;A3
+3195506;Slovenia;SI002C1;Maribor;A3
+3060972;Slovakia;SK001C1;Bratislava;A3
+724443;Slovakia;SK002C1;Ko≈°ice;A2
+3061186;Slovakia;SK003C1;Bansk√° Bystrica;A2
+3058531;Slovakia;SK004C1;Nitra;A3
+723819;Slovakia;SK005C1;Pre≈°ov;A2
+3056508;Slovakia;SK006C1;≈Ωilina;A2
+3057124;Slovakia;SK007C1;Trnava;A2
+3057140;Slovakia;SK008C1;Trenƒç√≠n;A2
+2655603;Great Britain;UK002C1;Birmingham;B
+2644688;Great Britain;UK003C1;Leeds;A2
+2648579;Great Britain;UK004C1;Glasgow;A2
+2654993;Great Britain;UK005C1;Bradford;A2
+2644210;Great Britain;UK006C1;Liverpool;A1
+2650225;Great Britain;UK007C1;Edinburgh;A3
+2643123;Great Britain;UK008C1;Manchester;A2
+2653822;Great Britain;UK009C1;Cardiff;A2
+2638077;Great Britain;UK010C1;Sheffield;A2
+2654675;Great Britain;UK011C1;Bristol;A2
+2655984;Great Britain;UK012C1;Belfast;B
+2641673;Great Britain;UK013C1;Newcastle upon Tyne;A2
+2644668;Great Britain;UK014C1;Leicester;A2
+2643736;Great Britain;UK015C1;Derry;
+2657832;Great Britain;UK016C1;Aberdeen;A2
+2653941;Great Britain;UK017C1;Cambridge;A2
+2649808;Great Britain;UK018C1;Exeter;A1
+2644487;Great Britain;UK019C1;Lincoln;A1
+2648186;Great Britain;UK020C1;Gravesham;
+2636940;Great Britain;UK021C1;Stevenage;A2
+2633485;Great Britain;UK022C1;Wrexham;
+2639996;Great Britain;UK023C1;Portsmouth;A1
+2633563;Great Britain;UK024C1;Worcester;A1
+2652221;Great Britain;UK025C1;Coventry;A2
+2645425;Great Britain;UK026C1;Kingston-upon-Hull;A2
+2636841;Great Britain;UK027C1;Stoke-on-trent;C
+2633691;Great Britain;UK028C1;Wolverhampton;C
+2641170;Great Britain;UK029C1;Nottingham;A2
+3333220;Great Britain;UK030C1;Wirral;A2
+3333123;Great Britain;UK031C1;Bath and North East Somerset;A2
+2635885;Great Britain;UK032C1;Thurrock;A2
+2647793;Great Britain;UK033C1;Guildford;A2
+2638703;Great Britain;UK034C1;Thanet;
+7290647;Great Britain;UK035C1;Nuneaton and Bedworth;Pl
+2649692;Great Britain;UK036C1;Fareham;B
+NA;Great Britain;UK038C1;Waveney;
+2639022;Great Britain;UK040C1;Tunbridge Wells;A2
+2656954;Great Britain;UK041C1;Ashford;A2
+2650337;Great Britain;UK043C1;East Staffordshire;A2
+2651513;Great Britain;UK044C1;Darlington;A1
+2633521;Great Britain;UK045C1;Worthing;
+2643097;Great Britain;UK046C1;Mansfield;A1
+2653225;Great Britain;UK047C1;Chesterfield;D
+2654264;Great Britain;UK050C1;Burnley;
+2647984;Great Britain;UK051C1;Great Yarmouth;
+2633709;Great Britain;UK052C1;Woking;A2
+2647400;Great Britain;UK053C1;Hartlepool;C
+2653882;Great Britain;UK054C1;Cannock Chase;
+2650497;Great Britain;UK055C1;Eastbourne;B
+2647356;Great Britain;UK056C1;Hastings;A2
+NA;Great Britain;UK057C1;Hyndburn;B
+2639557;Great Britain;UK059C1;Redditch;
+2636276;Great Britain;UK060C1;Tamworth;A2
+2647461;Great Britain;UK061C1;Harlow;B
+2647601;Great Britain;UK062C1;Halton;B
+2643744;Great Britain;UK101C1;City of London;A2
+3333120;Great Britain;UK102C1;Barking and Dagenham;
+2656295;Great Britain;UK103C1;Barnet;B
+2655775;Great Britain;UK104C1;Bexley;B
+2654789;Great Britain;UK105C1;Brent;A1
+2654588;Great Britain;UK106C1;Bromley;C
+3345437;Great Britain;UK107C1;Camden;A2
+2651817;Great Britain;UK108C1;Croydon;A2
+3333145;Great Britain;UK109C1;Ealing;
+2649997;Great Britain;UK110C1;Enfield;
+3333147;Great Britain;UK111C1;Greenwich;A2
+3333148;Great Britain;UK112C1;Hackney;A1
+3333149;Great Britain;UK113C1;Hammersmith and Fulham;C
+3333150;Great Britain;UK114C1;Haringey;B
+3333151;Great Britain;UK115C1;Harrow;A2
+3333153;Great Britain;UK116C1;Havering;A2
+3333154;Great Britain;UK117C1;Hillingdon;A1
+2646517;Great Britain;UK118C1;Hounslow;C
+2646003;Great Britain;UK119C1;Islington;A1
+3333157;Great Britain;UK120C1;Kensington and Chelsea;A1
+3333160;Great Britain;UK121C1;Kingston upon Thames;C
+3333163;Great Britain;UK122C1;Lambeth;C
+3333166;Great Britain;UK123C1;Lewisham;A1
+3333171;Great Britain;UK124C1;Merton;A2
+2641639;Great Britain;UK125C1;Newham;B
+3333185;Great Britain;UK126C1;Redbridge;B
+3333187;Great Britain;UK127C1;Richmond upon Thames;A1
+3333200;Great Britain;UK128C1;Southwark;C
+2636503;Great Britain;UK129C1;Sutton;C
+2635594;Great Britain;UK130C1;Tower Hamlets;C
+3333213;Great Britain;UK131C1;Waltham Forest;A1
+3333215;Great Britain;UK132C1;Wandsworth;B
+2634341;Great Britain;UK133C1;Westminster;C
+3333161;Great Britain;UK501C1;Kirklees;A2
+3333233;Great Britain;UK502C1;North Lanarkshire;A2
+2634910;Great Britain;UK503C1;Wakefield;C
+2650839;Great Britain;UK504C1;Dudley;A2
+2633948;Great Britain;UK505C1;Wigan;A2
+2651123;Great Britain;UK506C1;Doncaster;B
+2636882;Great Britain;UK507C1;Stockport;C
+3333192;Great Britain;UK508C1;Sefton;A2
+3333191;Great Britain;UK509C1;Sandwell;A1
+2636531;Great Britain;UK510C1;Sunderland;A1
+2655237;Great Britain;UK511C1;Bolton;C
+2634853;Great Britain;UK512C1;Walsall;A1
+3333170;Great Britain;UK513C1;Medway;A1
+2639093;Great Britain;UK514C1;Rotherham;A2
+3333133;Great Britain;UK515C1;Brighton and Hove;A2
+2640194;Great Britain;UK516C1;Plymouth;B
+2636432;Great Britain;UK517C1;Swansea;B
+2651347;Great Britain;UK518C1;Derby;A2
+2656284;Great Britain;UK519C1;Barnsley;B
+2637487;Great Britain;UK520C1;Southampton;A1
+2641022;Great Britain;UK521C1;Oldham;A2
+2638671;Great Britain;UK522C1;Salford;A2
+3333208;Great Britain;UK523C1;Tameside;B
+3333211;Great Britain;UK524C1;Trafford;B
+2642465;Great Britain;UK525C1;Milton Keynes;A1
+2639272;Great Britain;UK526C1;Rochdale;B
+2637546;Great Britain;UK527C1;Solihull;A1
+2641430;Great Britain;UK528C1;Northampton;A2
+2641238;Great Britain;UK529C1;North Tyneside;A2
+2648773;Great Britain;UK530C1;Gateshead;A2
+2634739;Great Britain;UK531C1;Warrington;A1
+2643339;Great Britain;UK532C1;Luton;C
+2633352;Great Britain;UK533C1;York;A2
+2654187;Great Britain;UK534C1;Bury;-
+2636389;Great Britain;UK535C1;Swindon;A1
+2636876;Great Britain;UK536C1;Stockton-on-Tees;A2
+2638785;Great Britain;UK537C1;St. Helens;C
+2656194;Great Britain;UK538C1;Basildon;B
+2655095;Great Britain;UK539C1;Bournemouth;A2
+2646914;Great Britain;UK540C1;Wycombe;B
+2637433;Great Britain;UK541C1;Southend-on-Sea;A1
+3333209;Great Britain;UK542C1;Telford and Wrekin;A1
+3333175;Great Britain;UK543C1;North East Lincolnshire;C
+2653266;Great Britain;UK544C1;Chelmsford;C
+2640354;Great Britain;UK545C1;Peterborough;C
+2652618;Great Britain;UK546C1;Colchester;B
+3333199;Great Britain;UK547C1;South Tyneside;A3
+7290553;Great Britain;UK548C1;Basingstoke and Deane;A2
+2656046;Great Britain;UK549C1;Bedford;A2
+2650752;Great Britain;UK550C1;Dundee City;A1
+2649723;Great Britain;UK551C1;Falkirk;A2
+2639577;Great Britain;UK552C1;Reading;A2
+2655459;Great Britain;UK553C1;Blackpool;C
+2643179;Great Britain;UK554C1;Maidstone;C
+2640101;Great Britain;UK555C1;Poole;A3
+NA;Great Britain;UK556C1;Dacorum;B
+3333126;Great Britain;UK557C1;Blackburn with Darwen;C
+2641598;Great Britain;UK558C1;Newport;B
+2642607;Great Britain;UK559C1;Middlesbrough;A2
+2640729;Great Britain;UK560C1;Oxford;A2
+3333210;Great Britain;UK561C1;Torbay;A1
+2639912;Great Britain;UK562C1;Preston;B
+2638867;Great Britain;UK563C1;St Albans;A2
+2634725;Great Britain;UK564C1;Warwick;A1
+2641674;Great Britain;UK565C1;Newcastle-under-Lyme;C
+2641181;Great Britain;UK566C1;Norwich;B
+2637627;Great Britain;UK567C1;Slough;A2
+11591742;Great Britain;UK568C2;Cheshire West and Chester;B
+2646057;Great Britain;UK569C1;Ipswich;B
+2653261;Great Britain;UK571C1;Cheltenham;A1
+2648404;Great Britain;UK572C1;Gloucester;A1
+3333130;Great Britain;UK573C1;Bracknell Forest;A2
+2644411;Great Britain;UK574C1;Lisburn;
+2653775;Great Britain;UK575C1;Carlisle;A1
+2652053;Great Britain;UK576C1;Crawley;A1
